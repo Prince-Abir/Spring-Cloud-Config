@@ -14,9 +14,9 @@ The project includes the following services:
 
 This repository contains the configuration files for each microservice:
 
-├── application.yml # (Optional) Shared global configuration
-├── user-service.yml # Configuration for User Service
-└── payment-service.yml # Configuration for Payment Service
+1. application.yml # (Optional) Shared global configuration
+2. user-service.yml # Configuration for User Service
+3. payment-service.yml # Configuration for Payment Service
 
 Each file contains service-specific properties such as ports, messages, or database settings.
 
