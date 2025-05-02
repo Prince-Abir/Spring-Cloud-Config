@@ -1,0 +1,4 @@
+# application.yml (for all services)
+logging:
+  level:
+    root: INFO
