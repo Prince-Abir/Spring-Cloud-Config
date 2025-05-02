@@ -1,4 +1,4 @@
 server:
   port: 8081
 
-message: Hello from Service A
+message: I am user service guys

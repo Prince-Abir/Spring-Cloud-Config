@@ -1,4 +1,4 @@
 server:
   port: 8082
 
-message: Hello from Service B
+message: I am payment service guys
