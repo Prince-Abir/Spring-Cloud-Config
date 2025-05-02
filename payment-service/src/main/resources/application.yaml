@@ -1,0 +1,10 @@
+spring:
+  config:
+    import: "optional:configserver:http://localhost:8088"
+  application:
+    name: payment-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,metrics,refresh,info"
