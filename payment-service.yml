@@ -1,8 +1,4 @@
 server:
   port: 8082
 
-<<<<<<< HEAD
 message: I am payment service guys
-=======
-message: I am User Service
->>>>>>> 8d013e77ea35c359c6238c3eae60b10a512d99f8
